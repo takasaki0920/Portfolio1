@@ -13,6 +13,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+    // ホーム画面へ遷移
+    Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+    // プロフィール画面へ遷移
+    Route::get('/profile', [App\Http\Controllers\HomeController::class, 'profile'])->name('profile');
+
+    // 学習画面へ遷移
+    Route::get('/skill', [App\Http\Controllers\HomeController::class, 'skill'])->name('skill');
+
+    // 詳細画面へ遷移
+    Route::get('/detail', [App\Http\Controllers\HomeController::class, 'detail'])->name('detail');
+    
+        
