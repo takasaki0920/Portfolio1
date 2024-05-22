@@ -1,5 +1,7 @@
 @extends('layouts.layout')
 
+@section('title', 'SKILL')
+
 @section('content')
 
 
@@ -12,7 +14,7 @@
     <!-- OS -->
     <div class="table-conteiner px-5 pb-4">
         <div class="mt-5">
-            <h5>OS</h5>
+            <h5 class="title fw-bolder table-active">OS</h5>
         </div>
         <table class="table">
             <thead class="">
@@ -40,7 +42,7 @@
     <!-- 言語 -->
     <div class="table-conteiner px-5 py-3">
         <div class="mt-2">
-            <h5>言語</h5>
+            <h5 class="title fw-bolder table-active">言語</h5>
         </div>
         <table class="table">
             <thead class="">
@@ -79,7 +81,7 @@
     <!-- フレームワーク -->
     <div class="table-conteiner px-5 py-3">
         <div class="mt-2">
-            <h5>フレームワーク</h5>
+            <h5 class="title fw-bolder table-active">フレームワーク</h5>
         </div>
         <table class="table">
             <thead class="">
@@ -113,7 +115,7 @@
     <!-- Office/DB -->
     <div class="table-conteiner px-5 py-3">
         <div class="mt-2">
-            <h5>ソフト/DB</h5>
+            <h5 class="title fw-bolder table-active">ソフト/DB</h5>
         </div>
         <table class="table">
             <thead class="">
@@ -147,7 +149,7 @@
     <!-- その他 -->
     <div class="table-conteiner px-5 py-3">
         <div class="mt-2">
-            <h5>その他</h5>
+            <h5 class="title fw-bolder table-active">その他</h5>
         </div>
         <table class="table">
             <thead class="">
@@ -176,7 +178,7 @@
     <!-- 資格・検定 -->
     <div class="table-conteiner px-5 pt-3 pb-5">
         <div class="mt-2">
-            <h5>資格・検定</h5>
+            <h5 class="title fw-bolder table-active">資格・検定</h5>
         </div>
         <table class="table">
             <thead class="">

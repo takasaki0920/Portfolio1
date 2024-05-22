@@ -30,6 +30,6 @@ use Illuminate\Support\Facades\Route;
     Route::get('/portfolio', [App\Http\Controllers\HomeController::class, 'portfolio'])->name('portfolio');
 
     // 詳細画面へ遷移
-    Route::get('/detail', [App\Http\Controllers\HomeController::class, 'detail'])->name('detail');
+    // Route::get('/detail', [App\Http\Controllers\HomeController::class, 'detail'])->name('detail');
     
         
