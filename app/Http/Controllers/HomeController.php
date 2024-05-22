@@ -17,11 +17,19 @@ class HomeController extends Controller
         
         return view('profile');
     }
+
     public function skill()
     {
         
         return view('skill');
     }
+
+    public function portfolio()
+    {
+        
+        return view('portfolio');
+    }
+
     public function detail()
     {
         
