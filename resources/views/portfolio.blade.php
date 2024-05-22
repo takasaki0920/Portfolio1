@@ -17,7 +17,7 @@
             <div class="portfolio_conteiner">
                 <a href="{{URL::to('https://th-item-management-9685438fc650.herokuapp.com')}}" class="BabyBoon_click">
                 <div class="d-flex justify-content-center">
-                    <img src="{{ asset('storage/BabyBoon.png') }}" class="img-thumbnail" style="width: 500px; height:400px;" alt="...">
+                    <img src="{{ asset('img/BabyBoon.png') }}" class="img-thumbnail" style="width: 500px; height:400px;" alt="...">
                 </div>
             </div>
         </div>

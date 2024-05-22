@@ -7,7 +7,7 @@
         <div class="card d-flex my-3 border border-0" style="max-width:auto;">
             <div class="row g-0 ">
                 <div class="col-md-4">
-                    <img src="{{ asset('storage/event_daruma01_02.png') }}" class="img-fluid rounded-start" alt="...">
+                    <img src="{{ asset('img/event_daruma01_02.png') }}" class="img-fluid rounded-start" alt="...">
                 </div>
                 <div class="col-md-8 d-flex align-items-center">
                     <div class="card-body ">
