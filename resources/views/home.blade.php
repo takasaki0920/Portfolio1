@@ -16,12 +16,12 @@
                     <div class="card-body ">
                         <h1 class="card-titl" style="line-height: 2;">TAKASAKI Portfolio</h1>
                         <div class="" style="line-height: 0.8;">
-                            <p>名前：髙﨑　春香</p>
+                            <p >名前：髙﨑　春香</p>
                             <p>出身地：長崎県五島市生まれ</p>
                             <p>　　　　愛知県名古屋市育ち</p>
                             <p>趣味：刺繍・読書・映画鑑賞</p>
                             <p>学習歴 : 2023年9月末~2024年3月末迄 TECH.I.S.にてWEBシステム</p>
-                            <p>開発を学習し、現在はUdemyでのECサイトの自己学習中です。</p>
+                            <p>　　　開発を学習し、現在はUdemyでのECサイトの自己学習中です。</p>
                             
                             </br>
                         </div>
@@ -30,6 +30,11 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="stydy">
+        <table class="table-primary">
+
+        </table>
     </div>
         <!-- ポートフォリオ　１件目 -->
         <div class="contents ">
