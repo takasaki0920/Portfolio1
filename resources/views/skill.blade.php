@@ -4,8 +4,7 @@
 
 @section('content')
 
-
-
+<div class="py-5 mb-5">
     <!-- 題名 -->
     <div class="d-flex justify-content-center pt-5">
         <h2>Skill</h2>
@@ -95,17 +94,17 @@
                 <tr class="row">
                     <td class="col-3">Bootstrap</td>
                     <td class="col-3">Bootstrap5</td>
-                    <td class="col-6"></td>
+                    <td class="col-6">BabyBoon（卒業制作）</br>ポートフォリオサイト</br>Twitter Clone</td>
                 </tr>
                 <tr class="row">
                     <td class="col-3">Laravel</td>
                     <td class="col-3">Laravel 10</br>Laravel 9</br>Laravel 8</td>
-                    <td class="col-6"></td>
+                    <td class="col-6">BabyBoon（卒業制作）</br>ポートフォリオサイト</br>ECサイト開発（現在学習中）</td>
                 </tr>
                 <tr class="row">
                     <td class="col-3">Tailwind</td>
                     <td class="col-3">Tailwind2</td>
-                    <td class="col-6"></td>
+                    <td class="col-6">ECサイト開発（現在学習中）</td>
                 </tr>
             </tbody>
         </table>
@@ -115,7 +114,7 @@
     <!-- Office/DB -->
     <div class="table-conteiner px-5 py-3">
         <div class="mt-2">
-            <h5 class="title fw-bolder table-active">ソフト/DB</h5>
+            <h5 class="title fw-bolder table-active">ソフト/DB/PaaS</h5>
         </div>
         <table class="table">
             <thead class="">
@@ -137,9 +136,24 @@
                     <td class="col-6"></td>
                 </tr>
                 <tr class="row">
-                    <td class="col-3">SQL</td>
+                    <td class="col-3">MySQL</td>
+                    <td class="col-3">5.7.39</td>
+                    <td class="col-6">BabyBoon（卒業制作）</br>Twitter Clone</td>
+                </tr>
+                <tr class="row">
+                    <td class="col-3">AWS S3</td>
                     <td class="col-3"></td>
-                    <td class="col-6"></td>
+                    <td class="col-6">BabyBoon（卒業制作） 現在StorageをS3へ移行中</td>
+                </tr>
+                <tr class="row">
+                    <td class="col-3">heroku</td>
+                    <td class="col-3"></td>
+                    <td class="col-6">BabyBoon（卒業制作）</br>ポートフォリオサイト</td>
+                </tr>
+                <tr class="row">
+                    <td class="col-3">Visual Studio Code</td>
+                    <td class="col-3"></td>
+                    <td class="col-6">BabyBoon（卒業制作）</br>ポートフォリオサイト</br>Twitter Clone</td>
                 </tr>
             </tbody>
         </table>
@@ -163,12 +177,13 @@
                 <tr class="row">
                     <td class="col-3">グループウェア</td>
                     <td class="col-3">Slack</br>Zoom</br>Google Meet</td>
-                    <td class="col-6"></td>
+                    <td class="col-6">チーム開発</td>
                 </tr>
                 <tr class="row">
                     <td class="col-3">コード</td>
                     <td class="col-3">Github</td>
-                    <td class="col-6"></td>
+                    <td class="col-6">チーム開発(Organization)</br>自主開発(卒業制作)</br>ECサイト開発（現在学習中）
+                    </br>(リポジトリ・クローン・ブランチ・コミットとプッシュ・フォーク・プルリクエスト・マージ)</td>
                 </tr>
             </tbody>
         </table>
@@ -201,12 +216,7 @@
                 </tr>
             </tbody>
         </table>
-
     </div>
-
-
-
-
-
+</div>
 
 @endsection

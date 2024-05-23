@@ -25,5 +25,5 @@
     </nav>
     <footer class="row justify-content-center ">
             <p class="copyright row justify-content-center">©2024 Takasaki</p>
-        </footer>
+    </footer>
 </div>
