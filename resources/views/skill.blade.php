@@ -41,7 +41,7 @@
     <!-- 言語 -->
     <div class="table-conteiner px-5 py-3">
         <div class="mt-2">
-            <h5 class="title fw-bolder table-active">言語</h5>
+            <h5 class="title fw-bolder table-active">言語/手法</h5>
         </div>
         <table class="table">
             <thead class="">
@@ -72,6 +72,12 @@
                     <td class="col-3">PHP 8.2.0</br>Visual Studio Code</br>Google Chrome</td>
                     <td class="col-6"></td>
                 </tr>
+                <tr class="row">
+                    <td class="col-3">手法</td>
+                    <td class="col-3">アジャイル開発</td>
+                    <td class="col-6">チーム開発</BR>卒業制作</td>
+                </tr>
+
             </tbody>
         </table>
 

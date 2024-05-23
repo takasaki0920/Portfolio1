@@ -20,16 +20,16 @@
                 <!-- イメージ画像 -->
                 <div class="portfolio_conteiner col-md-7" >
                     <a href="{{URL::to('https://th-item-management-9685438fc650.herokuapp.com')}}" class="BabyBoon_click">
-                    <div class="d-flex justify-content-center">
-                        <img src="{{ asset('img/BabyBoon.png') }}" class="img-thumbnail" style="width: 500px; height:400px;" alt="...">
-                    </div>
+                        <div class="d-flex justify-content-center">
+                            <img src="{{ asset('img/BabyBoon.png') }}" class="img-thumbnail" style="width: 500px; height:400px;" alt="...">
+                        </div>
                     <p style="text-align: center;">https://th-item-management-9685438fc650.herokuapp.com</p>
-
+                    <p style="text-align: center; color:black;" >現在 STORAGE をAWS S3に変更中です！</p>
                     </a>
                 </div>
                 <!-- 説明文 -->
                 <div class="col-md-7 pl-3">
-                    <h5>課題：</h5>
+                    <h5>課題：(アジャイル開発)</h5>
                     <h5>CRUD のいずれかの機能を実装した社内システムの作成</h5>
                     </br>
                     <h5>制作物タイトル：BabyBoon</h5>
