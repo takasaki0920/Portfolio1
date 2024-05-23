@@ -23,6 +23,8 @@
                     <div class="d-flex justify-content-center">
                         <img src="{{ asset('img/BabyBoon.png') }}" class="img-thumbnail" style="width: 500px; height:400px;" alt="...">
                     </div>
+                    <p style="text-align: center;">https://th-item-management-9685438fc650.herokuapp.com</p>
+
                     </a>
                 </div>
                 <!-- 説明文 -->
