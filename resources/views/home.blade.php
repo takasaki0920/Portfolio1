@@ -7,10 +7,10 @@
 <!-- title -->
 
     <div class="d-flex justify-content-center pt-5">
-        <div class="card d-flex my-3 border border-0" style="max-width:auto;">
+        <div class="card d-flex border border-0" style="max-width:auto;">
             <div class="row g-0 ">
-                <div class="col-md-4 ">
-                    <img src="{{ asset('img/IMG_3980 2.png') }}" class="img-fluid " style="width: 240px; height:200px;" alt="...">
+                <div class="col-md-4 pt-4 mt-4">
+                    <img src="{{ asset('img/IMG_3980 2.png') }}" class="img-fluid " style="width: 240px; height:240px;" alt="...">
                 </div>
                 <div class="col-md-8 d-flex align-items-center">
                     <div class="card-body ">
