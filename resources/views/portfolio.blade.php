@@ -5,7 +5,7 @@
 @section('content')
 
 
-<div class="conteiner my-5 pb-5">
+<div class="conteiner my-5 pb-5" style="font-size: 1.2rem;">
     <!-- 題名 -->
     <div class="d-flex justify-content-center p-5 my-5">
         <h2>Portfolio</h2>
